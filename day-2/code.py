@@ -18,4 +18,4 @@ for cmd in data:
     if split[0] == "up":
         depth -= int(split[1])
 
-print("Your final position match is %d" % (hpos*depth))
+print("Your final position math is %d" % (hpos*depth))
