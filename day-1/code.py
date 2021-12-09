@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import math
 
 data_file = open("./input", 'r')
 data = []
