@@ -22,19 +22,6 @@ while i < num_entries:
 
 print(lm)
 
-
-# Function to check
-# Log base 2
-def Log2(x):
-    return math.log10(x) / math.log10(2)
-
-
-# Function to check
-# if x is power of 2
-def ispoweroftwo(x):
-    return math.ceil(Log2(x)) == math.floor(Log2(x))
-
-
 i = 0
 a = 0
 b = 1
